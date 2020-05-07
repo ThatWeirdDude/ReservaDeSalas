@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReservaSalas", "ReservaSalas\ReservaSalas.csproj", "{EE37E487-C17F-4F0F-8B69-F54AE2234676}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador", "Instalador\Instalador.vdproj", "{92E6D985-74C7-4A66-B03F-8C547E65AF2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE37E487-C17F-4F0F-8B69-F54AE2234676}.Debug|x86.ActiveCfg = Debug|x86
+		{EE37E487-C17F-4F0F-8B69-F54AE2234676}.Debug|x86.Build.0 = Debug|x86
+		{EE37E487-C17F-4F0F-8B69-F54AE2234676}.Release|x86.ActiveCfg = Release|x86
+		{EE37E487-C17F-4F0F-8B69-F54AE2234676}.Release|x86.Build.0 = Release|x86
+		{92E6D985-74C7-4A66-B03F-8C547E65AF2F}.Debug|x86.ActiveCfg = Debug
+		{92E6D985-74C7-4A66-B03F-8C547E65AF2F}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

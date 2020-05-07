@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ReservaSalas\ReservaSalas\bin\Debug\ReservaSalas.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ReservaSalas\ReservaSalas\bin\Debug\ReservaSalas.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ReservaSalas\ReservaSalas\bin\Debug\System.Data.SQLite.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ReservaSalas\ReservaSalas\bin\Debug\System.Data.SQLite.xml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ReservaSalas\ReservaSalas\obj\x86\Debug\ReservaSalas.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ReservaSalas\ReservaSalas\obj\x86\Debug\ReservaSalas.Vista.CrearUsuario.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ReservaSalas\ReservaSalas\obj\x86\Debug\ReservaSalas.Vista.VerReserva.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ReservaSalas\ReservaSalas\obj\x86\Debug\ReservaSalas.Vista.CambiarContraseña.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ReservaSalas\ReservaSalas\obj\x86\Debug\ReservaSalas.Vista.IniciarSesion.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ReservaSalas\ReservaSalas\obj\x86\Debug\ReservaSalas.Vista.PanelDeControl.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ReservaSalas\ReservaSalas\obj\x86\Debug\ReservaSalas.Vista.RealizarReserva.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ReservaSalas\ReservaSalas\obj\x86\Debug\ReservaSalas.Vista.VerUsuarios.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ReservaSalas\ReservaSalas\obj\x86\Debug\ReservaSalas.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ReservaSalas\ReservaSalas\obj\x86\Debug\ReservaSalas.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ReservaSalas\ReservaSalas\obj\x86\Debug\ReservaSalas.pdb
